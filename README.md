@@ -24,3 +24,5 @@ A patient can perform the following features for now:
 1. View Medicine/Disease
 
 2. View Doctor's profile for contact
+
+3. Search for nearest pharmacy (Google Maps)
