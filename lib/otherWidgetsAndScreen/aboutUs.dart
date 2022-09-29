@@ -9,7 +9,7 @@ class AboutUs extends StatelessWidget {
     return Scaffold(
       body: SafeArea(
         child: Column(
-          //Bu da kolon içerisine birden fazla Widget eklenebileceği anlamına gelmektedir.
+          //Bu da içerisine birden fazla Widget eklenebileceği anlamına gelmektedir.
           // Eklenen her Widget, üst üste ekleniyor gibi sonuç verir.
           crossAxisAlignment: CrossAxisAlignment.start,
           children: <Widget>[
@@ -35,7 +35,7 @@ class AboutUs extends StatelessWidget {
                         ' \n BİLGİSAYAR MÜHENDİSLİĞİ BÖLÜMÜ'),
                     textAlign: TextAlign.center,
                     style: TextStyle(
-                        fontSize: height * 0.02, fontWeight: FontWeight.bold),
+                        fontSize: height * 0.01, fontWeight: FontWeight.bold),
                   ),
                   SizedBox(
                     height: height * 0.1,

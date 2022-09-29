@@ -1,0 +1,4 @@
+#Thu Sep 29 04:06:29 TRT 2022
+base.0=G\:\\Projects\\medkit-pharmacy-app-main\\build\\app\\intermediates\\transforms\\r8\\release\\0\\classes.dex
+renamed.0=classes.dex
+path.0=classes.dex

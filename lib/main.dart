@@ -147,18 +147,20 @@ class _WelcomeScreenState extends State<WelcomeScreen>
                   crossAxisAlignment: CrossAxisAlignment.start,
                   children: <Widget>[
                     FadeAnimation(
-                        delay:1,child:                        Text(
+                        delay:1,child:
+                    Text(
                           'MEDKIT',
                           style: TextStyle(color: Colors.black, fontSize: height * 0.06),
                         )),
                     FadeAnimation(
-                        delay:1,child:                        Text(
+                        delay:1,child:
+                    Text(
                           "Pharmacy in Your Hands!",
                           style: TextStyle(
                               color: Colors.black.withOpacity(0.5), fontSize: height * 0.017),
                         )),
                     SizedBox(
-                      height: height * 0.26,
+                      height: height * 0.1,
                     ),
                     Column(
                       children: <Widget>[

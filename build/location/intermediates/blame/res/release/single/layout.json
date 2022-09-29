@@ -1,0 +1,62 @@
+[
+    {
+        "merged": "G:\\Projects\\medkit-pharmacy-app-main\\build\\location\\intermediates\\res\\merged\\release\\layout\\notification_media_action.xml",
+        "source": "C:\\Users\\ghade\\.gradle\\caches\\transforms-2\\files-2.1\\0f6a93aa7a9f43d4eb1c8302c4c70e29\\media-1.0.0\\res\\layout\\notification_media_action.xml"
+    },
+    {
+        "merged": "G:\\Projects\\medkit-pharmacy-app-main\\build\\location\\intermediates\\res\\merged\\release\\layout\\notification_template_big_media.xml",
+        "source": "C:\\Users\\ghade\\.gradle\\caches\\transforms-2\\files-2.1\\0f6a93aa7a9f43d4eb1c8302c4c70e29\\media-1.0.0\\res\\layout\\notification_template_big_media.xml"
+    },
+    {
+        "merged": "G:\\Projects\\medkit-pharmacy-app-main\\build\\location\\intermediates\\res\\merged\\release\\layout\\notification_template_big_media_narrow.xml",
+        "source": "C:\\Users\\ghade\\.gradle\\caches\\transforms-2\\files-2.1\\0f6a93aa7a9f43d4eb1c8302c4c70e29\\media-1.0.0\\res\\layout\\notification_template_big_media_narrow.xml"
+    },
+    {
+        "merged": "G:\\Projects\\medkit-pharmacy-app-main\\build\\location\\intermediates\\res\\merged\\release\\layout\\notification_template_media.xml",
+        "source": "C:\\Users\\ghade\\.gradle\\caches\\transforms-2\\files-2.1\\0f6a93aa7a9f43d4eb1c8302c4c70e29\\media-1.0.0\\res\\layout\\notification_template_media.xml"
+    },
+    {
+        "merged": "G:\\Projects\\medkit-pharmacy-app-main\\build\\location\\intermediates\\res\\merged\\release\\layout\\notification_action_tombstone.xml",
+        "source": "C:\\Users\\ghade\\.gradle\\caches\\transforms-2\\files-2.1\\156b77404da8b2a7cd8078ed28fe2c6d\\core-1.6.0\\res\\layout\\notification_action_tombstone.xml"
+    },
+    {
+        "merged": "G:\\Projects\\medkit-pharmacy-app-main\\build\\location\\intermediates\\res\\merged\\release\\layout\\notification_template_media_custom.xml",
+        "source": "C:\\Users\\ghade\\.gradle\\caches\\transforms-2\\files-2.1\\0f6a93aa7a9f43d4eb1c8302c4c70e29\\media-1.0.0\\res\\layout\\notification_template_media_custom.xml"
+    },
+    {
+        "merged": "G:\\Projects\\medkit-pharmacy-app-main\\build\\location\\intermediates\\res\\merged\\release\\layout\\notification_template_icon_group.xml",
+        "source": "C:\\Users\\ghade\\.gradle\\caches\\transforms-2\\files-2.1\\156b77404da8b2a7cd8078ed28fe2c6d\\core-1.6.0\\res\\layout\\notification_template_icon_group.xml"
+    },
+    {
+        "merged": "G:\\Projects\\medkit-pharmacy-app-main\\build\\location\\intermediates\\res\\merged\\release\\layout\\notification_template_big_media_narrow_custom.xml",
+        "source": "C:\\Users\\ghade\\.gradle\\caches\\transforms-2\\files-2.1\\0f6a93aa7a9f43d4eb1c8302c4c70e29\\media-1.0.0\\res\\layout\\notification_template_big_media_narrow_custom.xml"
+    },
+    {
+        "merged": "G:\\Projects\\medkit-pharmacy-app-main\\build\\location\\intermediates\\res\\merged\\release\\layout\\notification_action.xml",
+        "source": "C:\\Users\\ghade\\.gradle\\caches\\transforms-2\\files-2.1\\156b77404da8b2a7cd8078ed28fe2c6d\\core-1.6.0\\res\\layout\\notification_action.xml"
+    },
+    {
+        "merged": "G:\\Projects\\medkit-pharmacy-app-main\\build\\location\\intermediates\\res\\merged\\release\\layout\\notification_template_big_media_custom.xml",
+        "source": "C:\\Users\\ghade\\.gradle\\caches\\transforms-2\\files-2.1\\0f6a93aa7a9f43d4eb1c8302c4c70e29\\media-1.0.0\\res\\layout\\notification_template_big_media_custom.xml"
+    },
+    {
+        "merged": "G:\\Projects\\medkit-pharmacy-app-main\\build\\location\\intermediates\\res\\merged\\release\\layout\\notification_template_part_chronometer.xml",
+        "source": "C:\\Users\\ghade\\.gradle\\caches\\transforms-2\\files-2.1\\156b77404da8b2a7cd8078ed28fe2c6d\\core-1.6.0\\res\\layout\\notification_template_part_chronometer.xml"
+    },
+    {
+        "merged": "G:\\Projects\\medkit-pharmacy-app-main\\build\\location\\intermediates\\res\\merged\\release\\layout\\notification_template_part_time.xml",
+        "source": "C:\\Users\\ghade\\.gradle\\caches\\transforms-2\\files-2.1\\156b77404da8b2a7cd8078ed28fe2c6d\\core-1.6.0\\res\\layout\\notification_template_part_time.xml"
+    },
+    {
+        "merged": "G:\\Projects\\medkit-pharmacy-app-main\\build\\location\\intermediates\\res\\merged\\release\\layout\\custom_dialog.xml",
+        "source": "C:\\Users\\ghade\\.gradle\\caches\\transforms-2\\files-2.1\\156b77404da8b2a7cd8078ed28fe2c6d\\core-1.6.0\\res\\layout\\custom_dialog.xml"
+    },
+    {
+        "merged": "G:\\Projects\\medkit-pharmacy-app-main\\build\\location\\intermediates\\res\\merged\\release\\layout\\notification_template_lines_media.xml",
+        "source": "C:\\Users\\ghade\\.gradle\\caches\\transforms-2\\files-2.1\\0f6a93aa7a9f43d4eb1c8302c4c70e29\\media-1.0.0\\res\\layout\\notification_template_lines_media.xml"
+    },
+    {
+        "merged": "G:\\Projects\\medkit-pharmacy-app-main\\build\\location\\intermediates\\res\\merged\\release\\layout\\notification_media_cancel_action.xml",
+        "source": "C:\\Users\\ghade\\.gradle\\caches\\transforms-2\\files-2.1\\0f6a93aa7a9f43d4eb1c8302c4c70e29\\media-1.0.0\\res\\layout\\notification_media_cancel_action.xml"
+    }
+]

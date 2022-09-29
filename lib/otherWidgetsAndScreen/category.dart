@@ -149,7 +149,7 @@ class Category extends StatelessWidget {
       width: MediaQuery.of(context).size.width * 0.5,
       child: ElevatedButton(
         style: ElevatedButton.styleFrom(
-          primary: Colors.white,
+          primary: Colors.black,
           shape: StadiumBorder(),
         ),
         onPressed: () {

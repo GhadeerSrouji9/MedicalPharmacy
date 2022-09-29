@@ -225,8 +225,9 @@ class _DoctorLoginState extends State<DoctorLogin> {
                                 ),
                                 SizedBox(width: height * 0.015),
                                 Text(
-                                  'Login',
+                                  'Login With Google',
                                   style: TextStyle(
+                                    color: Colors.black,
                                       letterSpacing: 2,
                                       fontWeight: FontWeight.bold,
                                       fontSize: height * 0.022),

@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "G:\\Projects\\medkit-pharmacy-app-main\\build\\cloud_firestore\\intermediates\\res\\merged\\release\\layout-v21\\notification_action.xml",
+        "source": "C:\\Users\\ghade\\.gradle\\caches\\transforms-2\\files-2.1\\156b77404da8b2a7cd8078ed28fe2c6d\\core-1.6.0\\res\\layout-v21\\notification_action.xml"
+    },
+    {
+        "merged": "G:\\Projects\\medkit-pharmacy-app-main\\build\\cloud_firestore\\intermediates\\res\\merged\\release\\layout-v21\\notification_template_custom_big.xml",
+        "source": "C:\\Users\\ghade\\.gradle\\caches\\transforms-2\\files-2.1\\156b77404da8b2a7cd8078ed28fe2c6d\\core-1.6.0\\res\\layout-v21\\notification_template_custom_big.xml"
+    },
+    {
+        "merged": "G:\\Projects\\medkit-pharmacy-app-main\\build\\cloud_firestore\\intermediates\\res\\merged\\release\\layout-v21\\notification_action_tombstone.xml",
+        "source": "C:\\Users\\ghade\\.gradle\\caches\\transforms-2\\files-2.1\\156b77404da8b2a7cd8078ed28fe2c6d\\core-1.6.0\\res\\layout-v21\\notification_action_tombstone.xml"
+    },
+    {
+        "merged": "G:\\Projects\\medkit-pharmacy-app-main\\build\\cloud_firestore\\intermediates\\res\\merged\\release\\layout-v21\\notification_template_icon_group.xml",
+        "source": "C:\\Users\\ghade\\.gradle\\caches\\transforms-2\\files-2.1\\156b77404da8b2a7cd8078ed28fe2c6d\\core-1.6.0\\res\\layout-v21\\notification_template_icon_group.xml"
+    }
+]
