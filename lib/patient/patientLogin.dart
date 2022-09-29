@@ -133,6 +133,7 @@ class PatientLogin extends StatelessWidget {
                         Text(
                           'Login Using Gmail',
                           style: TextStyle(
+                            color: Colors.black,
                               letterSpacing: 1.5,
                               fontWeight: FontWeight.w600,
                               fontSize: height * 0.021),
