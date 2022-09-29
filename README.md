@@ -1,4 +1,4 @@
-# Medkit app by Ashutosh
+# MedicalPharmacy App 
 
 It's a Pharmacy application that help you in curing basic symptoms and diseases with medicines available in your home.
 
