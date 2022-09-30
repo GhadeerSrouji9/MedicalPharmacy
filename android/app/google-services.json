@@ -15,11 +15,11 @@
       },
       "oauth_client": [
         {
-          "client_id": "805717288228-719mtshu0up84idfot13n1kas5p54aav.apps.googleusercontent.com",
+          "client_id": "805717288228-99phj11ivteepi81djn2m9olvqpchq76.apps.googleusercontent.com",
           "client_type": 1,
           "android_info": {
             "package_name": "com.example.medkit",
-            "certificate_hash": "8a7a7119f6ec67321f1c6c3aa14ccff8020eb47b"
+            "certificate_hash": "82b74062f519aa538fc0d17ea298acc7a6d4ce79"
           }
         },
         {
